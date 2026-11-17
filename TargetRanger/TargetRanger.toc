@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Target Ranger
+## Notes: Shows how far your target is for ranged attacks. Positive number: in range. Negative number: out of range (too far or too close).
+## Version: 0.1.7
+## IconTexture: Interface\AddOns\TargetRanger\Artwork\AddonIcon
+## Author: Radek Roza
+## SavedVariables: TargetRangerDB
+
+Core.lua
